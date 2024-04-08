@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+
+.blogsContainer {
+  padding: 10px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+
+.ul {
+  list-style: none;
+  padding-left: 0px;
+  width: 100%;
+}
